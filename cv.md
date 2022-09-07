@@ -3,7 +3,7 @@
 ## **My contacts**
 
 * **Location:** Dnipro, Ukraine
-* **telegram:** nikitariusov
+* **Telegram:** nikitariusov
 * **Email:** nikitariusov@gmail.com
 * **GitHub:**  [nikitariusov][gitHub]
 * **Discord:** Nikita Usov (@nikitariusov)
